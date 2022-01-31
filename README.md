@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamcp007
+- 👋 Hi, I’m Chandrasen_Patel@iamcp007
 - 👀 I’m interested in computational biophysics
 - 🌱 I’m currently learning about proteins
 - 📫 Email: chandrasen.barc@gmail.com
